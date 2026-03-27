@@ -54,4 +54,8 @@ I enjoy building real-world projects that combine machine learning, computer vis
 
 [![](https://visitcount.itsvg.in/api?id=YOUR_USERNAME\&icon=0\&color=0)](https://visitcount.itsvg.in)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Atomic-Intence20&show_icons=true&theme=tokyonight)
+## 🛠 Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white)
