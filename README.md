@@ -20,6 +20,7 @@ I enjoy building real-world projects that combine machine learning, computer vis
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin\&logoColor=white)](https://linkedin.com/in/gyandeep-mishra-atomic-intense)
 [![X](https://img.shields.io/badge/X-black.svg?logo=X\&logoColor=white)](https://x.com/ShadowGhostPro)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail\&logoColor=white)](mailto:gyanmishra1020@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-2997FF?logo=google-chrome&logoColor=white)](https://gyandeepmishra.tech)
 
 ---
 
