@@ -21,6 +21,15 @@ I enjoy building real-world projects that combine machine learning, computer vis
 [![X](https://img.shields.io/badge/X-black.svg?logo=X\&logoColor=white)](https://x.com/ShadowGhostPro)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail\&logoColor=white)](mailto:gyanmishra1020@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-2997FF?logo=google-chrome&logoColor=white)](https://gyandeepmishra.tech)
+
+
+---
+
+# 💻 Tech Stack:
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,flask,opencv,streamlit,mysql,mongodb,firebase,tensorflow,pytorch,git,github&perline=7" />
+</p>
 <p align="center">
 
 <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white"/>
@@ -33,14 +42,6 @@ I enjoy building real-world projects that combine machine learning, computer vis
 <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white"/>
 <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat"/>
 
-</p>
-
----
-
-# 💻 Tech Stack:
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,flask,opencv,streamlit,mysql,mongodb,firebase,tensorflow,pytorch,git,github&perline=7" />
 </p>
 
 ---
